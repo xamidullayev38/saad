@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'CormorantGaramond';
+    src: url(../fonts/Cormorant_Garamond/CormorantGaramond-Light.ttf);
+}
+@font-face {
+    font-family: 'CormorantGaramond-Regular';
+    src: url(../fonts/Cormorant_Garamond/CormorantGaramond-Regular.ttf);
+
+}
+@font-face {
+    font-family: 'CrimsonText';
+    src: url(../fonts/Crimson_Text/CrimsonText-Regular.ttf);
+
+}
+@font-face {
+    font-family: 'DancingScript';
+    src: url(../fonts/Dancing_Script/DancingScript-Regular.ttf);
+
+}

@@ -1,0 +1,522 @@
+[
+    {
+        "id": 1,
+        "author": "Dostoevsky",
+        "status": "If you wish, you can love people.",
+        "book": "Demons"
+    },
+    {
+        "id": 2,
+        "author": "Dostoevsky",
+        "status": "Beauty will save the world.",
+        "book": "Idiot"
+    },
+    {
+        "id": 3,
+        "author": "Dostoevsky",
+        "status": "The human heart is tested only by passions.",
+        "book": "Demons"
+    },
+    {
+        "id": 4,
+        "author": "Dostoevsky",
+        "status": "The human soul is a mysterious sea, never fully explored.",
+        "book": "The Gambler"
+    },
+    {
+        "id": 5,
+        "author": "Dostoevsky",
+        "status": "Great men go through great suffering.",
+        "book": "Crime and Punishment"
+    },
+    {
+        "id": 6,
+        "author": "Dostoevsky",
+        "status": "A beautiful soul beautifies even poverty.",
+        "book": "Idiot"
+    },
+    {
+        "id": 7,
+        "author": "Dostoevsky",
+        "status": "Loneliness is the deepest sorrow of the human soul.",
+        "book": "Idiot"
+    },
+    {
+        "id": 8,
+        "author": "Dostoevsky",
+        "status": "The human soul seeks things it does not even understand.",
+        "book": "Crime and Punishment"
+    },
+    {
+        "id": 9,
+        "author": "Dostoevsky",
+        "status": "We all become captives of those like us.",
+        "book": "The Gambler"
+    },
+    {
+        "id": 10,
+        "author": "Dostoevsky",
+        "status": "Suffering can be heavier than death.",
+        "book": "Crime and Punishment"
+    },
+    {
+        "id": 11,
+        "author": "Dostoevsky",
+        "status": "A person can suffer even from their own joy.",
+        "book": "Idiot"
+    },
+    {
+        "id": 12,
+        "author": "Dostoevsky",
+        "status": "Without losing your heart, you cannot lose hope.",
+        "book": "Crime and Punishment"
+    },
+
+    {
+        "id": 13,
+        "author": "Dostoevsky",
+        "status": "The greatest sin is not to love.",
+        "book": "The Gambler"
+    },
+
+    {
+        "id": 14,
+        "author": "Dostoevsky",
+        "status": "True knowledge can only be gained through suffering.",
+        "book": "Demons"
+    },
+
+    {
+        "id": 15,
+        "author": "Dostoevsky",
+        "status": "Love is to forgive everything.",
+        "book": "Idiot"
+    },
+
+    {
+        "id": 16,
+        "author": "Dostoevsky",
+        "status": "Geniuses always seem strange in their own time.",
+        "book": "The Gambler"
+    },
+
+    {
+        "id": 17,
+        "author": "Dostoevsky",
+        "status": "If you want to find truth, abandon your lies.",
+        "book": "Crime and Punishment"
+    },
+
+    {
+        "id": 18,
+        "author": "Dostoevsky",
+        "status": "Everyone is the craftsman of their own happiness.",
+        "book": "Idiot"
+    },
+    {
+        "id": 19,
+        "author": "Dostoevsky",
+        "status": "True wealth is the wealth of the soul.",
+        "book": "Idiot"
+    },
+
+
+    {
+        "id": 20,
+        "author": "Dostoevsky",
+        "status": "Suffering is the path to self-awareness of the soul.",
+        "book": "Crime and Punishment"
+    },
+
+    {
+        "id": 21,
+        "author": "Dostoevsky",
+        "status": "One of humanity's greatest punishments is seeing its own mistakes.",
+        "book": "Crime and Punishment"
+    },
+
+    {
+        "id": 22,
+        "author": "Dostoevsky",
+        "status": "A life without mistakes is an empty life.",
+        "book": "Demons"
+    },
+    {
+        "id": 23,
+        "author": "Dostoevsky",
+        "status": "Peace of mind can only be found through honesty.",
+        "book": "Idiot"
+    },
+    {
+        "id": 24,
+        "author": "Dostoevsky",
+        "status": "Man must learn to control himself, not the world.",
+        "book": "The Gambler"
+    },
+
+    {
+        "id": 25,
+        "author": "Dostoevsky",
+        "status": "Loving people is easy, but understanding them is hard.",
+        "book": "Idiot"
+    },
+    {
+        "id": 26,
+        "author": "Dostoevsky",
+        "status": "Love always beautifies things.",
+        "book": "Idiot"
+    },
+    {
+        "id": 27,
+        "author": "Dostoevsky",
+        "status": "All greatness lies in simplicity.",
+        "book": "Idiot"
+    },
+    {
+        "id": 28,
+        "author": "Dostoevsky",
+        "status": "Love is stronger than any evil.",
+        "book": "Idiot"
+    },
+    {
+        "id": 29,
+        "author": "Dostoevsky",
+        "status": "He who knows how to forgive is truly happy.",
+        "book": "Crime and Punishment"
+    },
+
+    {
+        "id": 30,
+        "author": "Dostoevsky",
+        "status": "Beauty finds its expression even in evil.",
+        "book": "Idiot"
+    },
+    {
+        "id": 31,
+        "author": "Dostoevsky",
+        "status": "The sorrow of the heart sometimes heals it.",
+        "book": "Crime and Punishment"
+    },
+    {
+        "id": 32,
+        "author": "Dostoevsky",
+        "status": "Love is sacrificing your life for another.",
+        "book": "The Gambler"
+    },
+    {
+        "id": 33,
+        "author": "Dostoevsky",
+        "status": "A true person finds happiness in their suffering.",
+        "book": "Idiot"
+    },
+    {
+        "id": 34,
+        "author": "Dostoevsky",
+        "status": "True wisdom is understanding your limits.",
+        "book": "The Gambler"
+    },
+    {
+        "id": 35,
+        "author": "Dostoevsky",
+        "status": "Only a loving person can understand someone else.",
+        "book": "Idiot"
+    },
+    {
+        "id": 36,
+        "author": "Dostoevsky",
+        "status": "The truth of life lies in its simplicity.",
+        "book": "The Gambler"
+    },
+    {
+        "id": 38,
+        "author": "Dostoevsky",
+        "status": "Every suffering purifies the soul.",
+        "book": "Idiot"
+    },
+    {
+        "id": 39,
+        "author": "Dostoevsky",
+        "status": "Love is the highest peak of the human spirit.",
+        "book": "The Gambler"
+    },
+    {
+        "id": 40,
+        "author": "Dostoevsky",
+        "status": "True wealth is the wealth of the heart.",
+        "book": "The Gambler"
+    },
+    {
+        "id": 41,
+        "author": "Dostoevsky",
+        "status": "A person’s happiness depends on others.",
+        "book": "Idiot"
+    },
+    {
+        "id": 42,
+        "author": "Dostoevsky",
+        "status": "The most important lessons of life are learned through suffering.",
+        "book": "Crime and Punishment"
+    },
+    {
+        "id": 43,
+        "author": "Dostoevsky",
+        "status": "A person who loses trust also loses happiness.",
+        "book": "Idiot"
+    },
+    {
+        "id": 44,
+        "author": "Dostoevsky",
+        "status": "Loneliness weakens a person.",
+        "book": "Demons"
+    },
+    {
+        "id": 45,
+        "author": "Dostoevsky",
+        "status": "To love a person, it is not necessary to understand them.",
+        "book": "Idiot"
+    },
+    {
+        "id": 46,
+        "author": "Dostoevsky",
+        "status": "Mankind is always busy searching for itself.",
+        "book": "Demons"
+    },
+    {
+        "id": 47,
+        "author": "Dostoevsky",
+        "status": "When a man is left alone in the world, he finds himself.",
+        "book": "The Gambler"
+    },
+    {
+        "id": 48,
+        "author": "Dostoevsky",
+        "status": "Love transforms the heart so profoundly that nothing else is needed.",
+        "book": "Idiot"
+    },
+    {
+        "id": 49,
+        "author": "Dostoevsky",
+        "status": "Memories are the wealth of a person.",
+        "book": "Idiot"
+    },
+    {
+        "id": 50,
+        "author": "Dostoevsky",
+        "status": "The greatest wisdom lies in the simplest things.",
+        "book": "The Gambler"
+    },
+    {
+        "id": 51,
+        "author": "Dostoevsky",
+        "status": "The meaning of life lies in loving it.",
+        "book": "Idiot"
+    },
+    {
+        "id": 52,
+        "author": "Dostoevsky",
+        "status": "To find the truth, one must abandon lies.",
+        "book": "Grand Inquisitor"
+    },
+
+    {
+        "id": 53,
+        "author": "Dostoevsky",
+        "status": "The beauty of life lies in its complexity.",
+        "book": "Demons"
+    },
+
+    {
+        "id": 54,
+        "author": "Dostoevsky",
+        "status": "The best teacher is our own mistakes.",
+        "book": "Idiot"
+    },
+    {
+        "id": 55,
+        "author": "Dostoevsky",
+        "status": "He who understands suffering understands the meaning of life.",
+        "book": "Demons"
+    },
+    {
+        "id": 56,
+        "author": "Dostoevsky",
+        "status": "Life is a struggle and a search.",
+        "book": "Crime and Punishment"
+    },
+    {
+        "id": 57,
+        "author": "Dostoevsky",
+        "status": "The best way to change a person is to love them.",
+        "book": "Demons"
+    },
+    {
+        "id": 58,
+        "author": "Mawlana Rumi",
+        "status": "If you want to open your heart, choose the path of love."
+    },
+    {
+        "id": 59,
+        "author": "Dostoevsky",
+        "status": "The heart sees not with eyes, but with love."
+    },
+    {
+        "id": 60,
+        "author": "Mawlana Rumi",
+        "status": "Where there is water, there is life. Where there is love, there is meaning."
+    },
+
+    {
+        "id": 61,
+        "author": "Mawlana Rumi",
+        "status": "The greatest journey of a person is the journey to their own heart."
+    },
+    {
+        "id": 62,
+        "author": "Mawlana Rumi",
+        "status": "If you do not love yourself, how can you give love to others?"
+    },
+    {
+        "id": 63,
+        "author": "Mawlana Rumi",
+        "status": "Forget all the sorrows, only remember the love."
+    },
+    {
+        "id": 64,
+        "author": "Mawlana Rumi",
+        "status": "The greatest power in the world is love."
+    },
+    {
+        "id": 65,
+        "author": "Mawlana Rumi",
+        "status": ""
+    },
+    {
+        "id": 66,
+        "author": "Mawlana Rumi",
+        "status": "Find happiness in being able to give love to others."
+    },
+    {
+        "id": 67,
+        "author": "Mawlana Rumi",
+        "status": "Love always renews us."
+    },
+
+    {
+        "id": 68,
+        "author": "Mawlana Rumi",
+        "status": "Do not wait for change, start with yourself."
+    },
+
+
+    {
+        "id": 69,
+        "author": "Mawlana Rumi",
+        "status": "In every person's heart, the whole world resides."
+    },
+    {
+        "id": 70,
+        "author": "Mawlana Rumi",
+        "status": "Infinity can only be felt in the heart."
+    },
+    
+    {
+        "id": 71,
+        "author": "Albert Einstein",
+        "status": "The human heart is capable of understanding the truth, but the eyes only comprehend what they see."
+    },
+    {
+        "id": 72,
+        "author": "John Steinbeck",
+        "status": "Happiness comes from adapting to change."
+    },
+    {
+        "id": 73,
+        "author": "Maya Angelou",
+        "status": "True strength is spreading happiness to others."
+    },
+    {
+        "id": 74,
+        "author": "Saad",
+        "status": "Тилингиз калбингизни созламаса калбингиз хакида тилингиз хам созламасин..."
+    },
+    {
+        "id": 75,
+        "author": "Saad",
+        "status": "أنت نوري في الظلام"
+    },
+    {
+        "id": 76,
+        "author": "Saad",
+        "status": "ёлғизлик жар солинмайди... "
+    },
+    {
+        "id": 77,
+        "author": "Author",
+        "status": "йўқотган ва қайтишим керак бўлган ягона нарса ўзим"
+    },
+    {
+        "id": 78,
+        "author": "Shoxrux",
+        "status": "ула учун севги ўз ёлига"
+    },
+    {
+        "id": 79,
+        "author": "Saad",
+        "status": "-шунчаки ошиқ бўлдик ҳолос... кўзларсиз, қошларсиз ва ҳатто сочларсиз ҳам ошиқлигимизча қоламиз"
+    },
+    {
+        "id": 80,
+        "author": "Saad",
+        "status": "Отамни меҳнатга мажбур қилган талабалигимни нима билан нишонласам экан?"
+    },
+    {
+        "id": 81,
+        "author": "Saad",
+        "status": "لزوجتي الوفية  🌹"
+    },
+    {
+        "id": 82,
+        "author": "Saad",
+        "status": "Оғриқлар абадий эмас... Бироқ уларнинг сабабчилари абадий унутилмасдирлар"
+    },
+    {
+        "id": 83,
+        "author": "Muhammadziyo",
+        "status": "Ёшланган ошанда менинг кўзларим "
+    },
+    {
+        "id": 84,
+        "author": "Saad",
+        "status": "...номимизни айтганимизда қалбимизни сўзлай кетганлари ранжитди бир оз"
+    },
+    {
+        "id": 85,
+        "author": "Farik Nazarbaev",
+        "status": "Я придумал игру давай поиграем"
+    },
+    {
+        "id": 86,
+        "author": "Saad",
+        "status": "Қалб уни англовчи ўзга бир қалбга муҳтождир... "
+    },
+    {
+        "id": 87,
+        "author": "Mawlana Rumi",
+        "status": "сени кўзларимгина ўзиники қила олди"
+    },
+    {
+        "id": 88,
+        "author": "Unknown",
+        "status": "bazı acılar unutulmaz"
+    },
+    {
+        "id": 89,
+        "author": "Unknown",
+        "status": "sen hiç sevdiġini öldurun mü?"
+    },
+    {
+        "id": 90,
+        "author": "Hayrullo Hamidov",
+        "status": "Қишдан омон чиққандик аммо Бизни қатл этди баҳорлар"
+    }
+]   
